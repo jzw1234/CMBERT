@@ -1,3 +1,5 @@
 # CMBERT
-# pretraining_cmbert
+* pretraining_cmbert
+~~~~~
 python pretrain_cmbert.py
+~~~~~
